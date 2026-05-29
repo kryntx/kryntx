@@ -1,8 +1,5 @@
 ### 👋 你好，我是 kryntx
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=嵌入式开发工程师;无人机 人工智能爱好者;持续学习，坚持编码" alt="动态文字" />
-</p>
 
 📍 所在地：中国 · 广州
 💻 技术方向：嵌入式开发、Python、C语言
@@ -23,16 +20,6 @@
 
 ---
 
-### 📊 个人数据统计
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kryntx&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kryntx&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-### 🔥 连续打卡统计
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kryntx&theme=radical&hide_border=true" />
-</p>
 
 ---
 
