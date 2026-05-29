@@ -1,7 +1,7 @@
 ### 👋 你好，我是 kryntx
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=嵌入式开发工程师;无人机+%26+人工智能爱好者;持续学习，坚持编码" alt="动态文字" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=嵌入式开发工程师;无人机 人工智能爱好者;持续学习，坚持编码" alt="动态文字" />
 </p>
 
 📍 所在地：中国 · 广州
